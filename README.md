@@ -1,7 +1,6 @@
-<br />
 <p align="center">
   <a href="https://github.com/Shineii86/Source/logo.png">
-    <img src="./public/animechan-logo.png" alt="Logo" width="200" height="200">
+    <img src="./Source/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h1><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Anime Otaku Portfolio</h1>
