@@ -3,7 +3,7 @@
     <img src="./Source/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h1><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Anime Otaku Portfolio</h1>
+<h1><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> Anime Otaku Portfolio</h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shineii86/Portfolio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shineii86/Portfolio)
@@ -18,7 +18,7 @@ A modern, sleek anime-inspired portfolio website showcasing my passion for anime
 
 </div>
 
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Sparkles.webp" alt="Sparkles" width="40" height="40" /> Features</h2>
+<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Features</h2>
 
 - **Modern Anime Aesthetic** - Sleek dark theme with vibrant neon accents
 - **Dynamic Animations** - Smooth hover effects, scroll animations, and transitions
@@ -29,7 +29,7 @@ A modern, sleek anime-inspired portfolio website showcasing my passion for anime
 - **Social Integration** - Stylish social media cards with direct links
 - **Inspirational Quotes** - Featured anime quotes with Japanese translations
 
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40" /> Technologies Used</h2>
+<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Technologies Used</h2>
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Advanced styling with Flexbox and Grid
@@ -37,7 +37,7 @@ A modern, sleek anime-inspired portfolio website showcasing my passion for anime
 - **Font Awesome** - Icon library
 - **Google Fonts** - Modern typography (Montserrat and Noto Sans JP)
 
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Toolbox.webp" alt="Toolbox" width="40" height="40" /> Installation</h2>
+<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Installation</h2>
 
 No installation required! Simply clone the repository and open `index.html` in your browser:
 
@@ -45,7 +45,7 @@ No installation required! Simply clone the repository and open `index.html` in y
 git clone https://github.com/Shineii86/Portfolio.git
 cd Portfolio
 ```
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="40" height="40" /> Customization</h2>
+<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Customization</h2>
 
 To personalize this portfolio:
 1) Replace placeholder images in the HTML file
