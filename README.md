@@ -10,6 +10,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/Shineii86/Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Shineii86/Portfolio?style=social)
 
+<img src="./Source/Banner1.png" alt="Gem Stone" width="1000" />
+
 A modern, sleek anime-inspired portfolio website showcasing my passion for anime, programming, and creative design. Features dynamic animations, responsive layout, and immersive UI elements.
 
 <div align="center">
@@ -68,7 +70,7 @@ Section	Preview:
 
 | Hero Section | Anime Gallery | Skills Section | Quotes Section |
 | :--: | :-- | :--: | :-- |
-|	<img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview1.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview2.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview3.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview4.png" width="150"/> |
+|	<img src="./Source/Preview1.png" width="150"/> | <img src="./Source/Preview2.png" width="150"/> | <img src="./Source/Preview3.png" width="150"/> | <img src="./Source/Preview4.png" width="150"/> |
 
 <h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> License</h2>
 
@@ -86,6 +88,8 @@ For inquiries or collaborations:
 [![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
 
+
+<img src="./Source/Banner2.png" alt="Gem Stone" width="1000" />
 
 <div align="center">
   <sub><b>Copyright © 2025 Shinei Nouzen All Rights Reserved</b></sub>
