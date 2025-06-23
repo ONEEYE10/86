@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/Shineii86/Source/logo.png">
     <img src="./Source/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h1><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> Anime Otaku Portfolio</h1>
+<h1><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> Shinei Portfolio</h1></div>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shineii86/Portfolio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shineii86/Portfolio)
@@ -66,9 +66,9 @@ To personalize this portfolio:
 <h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" /> Preview</h2>
 Section	Preview:
 
-| Hero Section | Anime Gallery | Skills Section | Mobile View |
+| Hero Section | Anime Gallery | Skills Section | Quotes Section |
 | :--: | :-- | :--: | :-- |
-|	<img src=" " width="150"/> | <img src=" " width="150"/> | <img src=" " width="150"/> | <img src=" " width="150"/> |
+|	<img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview1.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview2.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview3.png" width="150"/> | <img src="https://github.com/Shineii86/Portfolio/blob/main/Source/Preview4.png" width="150"/> |
 
 <h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> License</h2>
 
