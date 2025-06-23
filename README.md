@@ -72,12 +72,19 @@ Section	Preview:
 | :--: | :-- | :--: | :-- |
 |	<img src="./Source/Preview1.png" width="150"/> | <img src="./Source/Preview2.png" width="150"/> | <img src="./Source/Preview3.png" width="150"/> | <img src="./Source/Preview4.png" width="150"/> |
 
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> License</h2>
-
+<h2> <img src="https://raw.githubusercontent.com/Shineii86/AniEmojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="25" height="25" /> License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<h2><img src="https://raw.githubusercontent.com/Shineii86/Emojis/refs/heads/main/Objects/Telephone.webp" alt="Telephone" width="25" height="25" /> Contact</h2>
-For inquiries or collaborations:
+## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> Loved My Work?
+
+<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />&nbsp;[Give a star to this project](https://github.com/Shineii86/Portfolio/) <br/>
+<img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Animals%20and%20Nature/Cherry%20Blossom.webp" alt="Cherry Blossom" width="25" height="25" />&nbsp;[Follow me on GitHub](https://github.com/Shineii86/Shineii86)<br/>
+
+> <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/Smileys/Thinking%20Face.webp" alt="Thinking Face" width="25" height="25" /> Wondering where to get these animated emojis?
+> [Visit here!](https://github.com/Shineii86/AniEmojis) You also should look around my other github repos. Maybe you'll find some cool useful stuff there.
+
+## <img src="https://raw.githubusercontent.com/Shineii86/AniEmojis/refs/heads/main/Objects/Telephone.webp" alt="Telephone" width="25" height="25" /> Contact
+> For inquiries or collaborations:
   
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
@@ -89,8 +96,11 @@ For inquiries or collaborations:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
 
 
-<img src="./Source/Banner2.png" alt="Gem Stone" width="1000" />
+<img src="./Source/Banner2.png" alt="Banner" width="1000" />
 
 <div align="center">
-  <sub><b>Copyright © 2025 Shinei Nouzen All Rights Reserved</b></sub>
+  
+[![Profile last updated](https://img.shields.io/github/last-commit/Shineii86/AniIPFinder/main?label=Last%20updated&style=flat)](https://github.com/Shineii86/Portfolio/commits)
+  
+  <sup><b>Copyright © 2025 <a href="https://telegram.me/Shineii86">Shinei Nouzen</a> All Rights Reserved</b></sup>
 </div>
