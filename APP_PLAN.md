@@ -122,6 +122,20 @@ Free PDFs, no signup. Read each one when we reach that step, not before. (The pa
 - **Database:** the guides say use Firestore and avoid Supabase (cost). We keep **Supabase**: its free tier, login and plugin are already set up. Revisit only if the bill grows.
 - **No Mac:** his StoreKit testing and `npx expo run:ios --device` need Xcode on a Mac. On Windows we use **EAS development builds** on the iPhone and the `revenuecat-testing-setup` skill instead.
 
+## 6c. Reel: nels_ysng "I sold my vibe-coded app I built in 2 months" (same author as 6b)
+His 4 steps (read from the on-screen text; the audio wasn't transcribed):
+1. **Validate the idea.** 3 ways to find one: solve your own problem, mine Reddit and social media, **copy what already pays**. Check what an existing app earns with **Appmagic** or **Sensor Tower** (estimated revenue + downloads). His idea came from a Starter Story video ("This app made over $1M").
+2. **Write a PRD** (`prd.md`): what you're building, who it's for, the problem it solves, core features, how it all works. Prompt: "turn my app idea into a prd".
+3. **Build the MVP.** React Native + Expo (iOS + Android). Give the coding agent a UI reference: Mobbin, or screenshots of real apps (Pinterest / App Store). Turn off everything except **the core feature** (no social feed, AI chat, leaderboards or widgets).
+4. **Backend + analytics.** Login + database, RevenueCat for subscriptions, **PostHog** for analytics (daily active users).
+
+**What this changes in our roadmap:**
+- Step 1 (pick the idea): use his 3 ways, and check the money with Appmagic / Sensor Tower.
+- New step between 2 and 3: **write `prd.md`** before any demo or code.
+- Step 6: add **PostHog** analytics next to Supabase (it has a free tier; check its current limits).
+
+**Promotion lesson:** the reel itself is the model for our TikTok/IG content. The hook is a result ("I sold my app"), followed by numbered steps with big on-screen text, filmed at the desk, ending with "Comment 'App' for my guides" (a keyword-to-DM funnel, same as our ManyChat setup).
+
 ## 7. Skipped on purpose
 - Instagram/TikTok **scraper** skills: need paid scraping accounts and break Instagram's rules. We already read reels with yt-dlp + Agent Reach.
 - The many **"app-store-screenshots"** copies under random publisher names: duplicates of unknown quality.
