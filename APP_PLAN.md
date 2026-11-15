@@ -136,6 +136,17 @@ His 4 steps (read from the on-screen text; the audio wasn't transcribed):
 
 **Promotion lesson:** the reel itself is the model for our TikTok/IG content. The hook is a result ("I sold my app"), followed by numbered steps with big on-screen text, filmed at the desk, ending with "Comment 'App' for my guides" (a keyword-to-DM funnel, same as our ManyChat setup).
 
+## 6d. Example account: @frist.com.de (from a screenshot, 2026-11-15)
+- **What it is:** a tool that tracks finance and tech internship deadlines in Germany, Austria and Switzerland, updated daily. Its features include deadline reminders, a CV check and application tips. It's small: 8 posts and 113 followers, so it isn't proof the method works yet.
+- **Their method:**
+  1. **Character reels about the pain.** 3D cartoon students in relatable moments: "only a 5-minute break" while a deadline counts down, "applications: 78", "How am I supposed to know when the application opens?"
+  2. **The product hides inside the joke.** The laptop in the reel shows frist's own screen (internship, deadline "today 23:59", countdown). It's an ad that doesn't feel like one.
+  3. **Useful news people share.** "Deutsche Bank Spring Week. Open for 5 days. Most people don't know." This creates fear of missing out and makes people save and send the post.
+  4. **One look everywhere:** green, a serif font, the "frist." logo, 2 pinned posts, and a "Stellen" (jobs) highlight.
+- **For us:**
+  - Promotion: show the user's pain with a character, put our app on the screen inside the joke, and add "useful news" posts.
+  - App idea pattern: **"we track X for a niche, daily, and remind you"**. That's a simple app people pay for to avoid missing something.
+
 ## 7. Skipped on purpose
 - Instagram/TikTok **scraper** skills: need paid scraping accounts and break Instagram's rules. We already read reels with yt-dlp + Agent Reach.
 - The many **"app-store-screenshots"** copies under random publisher names: duplicates of unknown quality.
