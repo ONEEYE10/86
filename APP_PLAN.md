@@ -108,6 +108,20 @@ From @mengto's Threads post (2026-11-15):
 - 🟡 **Meng To's skills** (github.com/mengt…): need the full link
 - ❌ github.com/achim… (Blender + AI images): skip, already covered
 
+## 6b. Free guides to follow (Nelson Builds, nels-ysng-guides.vercel.app)
+Free PDFs, no signup. Read each one when we reach that step, not before. (The paid "Idea to App Store" guide is £19.99; not needed yet.)
+| Roadmap step | Guide | Key takeaways |
+|---|---|---|
+| 3. Demo | Idea to MVP in 1 Day | Cut to ONE core flow. No login, settings or payments on day 1. Show 2–3 people and ask: "Where did you hesitate?" |
+| 4. Design | Designing UI with AI | Pick colours + font + spacing (8px) BEFORE prompting. Feed 2–3 real app screens (Mobbin) as reference. Ban the AI look: no purple gradients, no emoji icons, no centred-everything. Contrast 4.5:1, tap targets 44pt |
+| 5. Build | AI Coding Stack | Same stack as ours: Expo + EAS + Claude Code. Set `"autoIncrement": true` in eas.json |
+| 7. Subscriptions | Subscriptions with RevenueCat | Product IDs must match in 4 places. Use `_v1` in IDs. Configure RevenueCat at app launch, not on the paywall. Check the entitlement, never the product. A cancelled purchase is not an error. A Restore Purchases button is required |
+| 9–10. Store + publish | Launching on the App Store | Privacy Policy + Terms + Support as live web pages (our Vercel site can host them). In-app account deletion is required. Sign in with Apple is required if we offer Google login. Screenshots 1320×2868, no transparency. Give reviewers a demo login |
+
+**Where the guides don't fit us:**
+- **Database:** the guides say use Firestore and avoid Supabase (cost). We keep **Supabase**: its free tier, login and plugin are already set up. Revisit only if the bill grows.
+- **No Mac:** his StoreKit testing and `npx expo run:ios --device` need Xcode on a Mac. On Windows we use **EAS development builds** on the iPhone and the `revenuecat-testing-setup` skill instead.
+
 ## 7. Skipped on purpose
 - Instagram/TikTok **scraper** skills: need paid scraping accounts and break Instagram's rules. We already read reels with yt-dlp + Agent Reach.
 - The many **"app-store-screenshots"** copies under random publisher names: duplicates of unknown quality.
