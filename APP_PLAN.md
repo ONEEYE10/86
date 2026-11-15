@@ -121,3 +121,4 @@ From @mengto's Threads post (2026-11-15):
 
 ## Session history
 - **2026-11-15:** user decided to build an app someday. Researched skills.sh; installed 21 skills (Expo ×9, RevenueCat ×6, marketing ×6); saved design sites; reviewed @mengto's skill list (install 3, 5, 6 later). This file created.
+- **2026-11-15 (later):** plan saved to the `oneeye10/86` repo (push blocked until the Claude GitHub App has access). This chat's purpose: build the app and promote it on TikTok/IG to get users.
