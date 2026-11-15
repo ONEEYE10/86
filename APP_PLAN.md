@@ -1,0 +1,123 @@
+# App idea: plan + tools log
+**Read this first in any chat about the app. Update it at the end of every session.**
+Started 2026-11-15. Status: **idea stage. No app idea chosen yet, nothing built.**
+
+---
+
+## 1. The goal
+- Build a phone app, publish it on the **App Store** (and Google Play), make money with **subscriptions**, promote it on **TikTok and Instagram**.
+- Covers everything: making it → design → login → payments/subscriptions → security → store listing → promotion.
+- Fits the bigger plan: $3K/month by end of 2027 (see `../2027-PLAN.md`). The app comes after the AI-tips account is running.
+
+## 2. Decisions already made
+| Topic | Decision | Why |
+|---|---|---|
+| How to build | **Expo (React Native)**: one codebase for iPhone + Android | The laptop is Windows. Expo's **EAS** builds the iPhone version in the cloud, so no Mac is needed |
+| Login + database | **Supabase** (plugin already installed) | Login (email, Apple, Google) + database + storage in one |
+| Payments / subscriptions | **RevenueCat** | The standard for app subscriptions; handles Apple + Google billing and paywalls |
+| Website / landing page | Vercel (plugin installed), same black-and-white style as the EIGHTYSIX site | Site at `../ai-account/site/` |
+| Security | security-and-hardening + security-review skills before every release | Protects user data and keys |
+| Skills policy | Install skills **only when needed**; read every skill's files before installing | More skills = more confusion + more risk |
+
+## 3. Costs to expect
+| What | Cost | When |
+|---|---|---|
+| Apple Developer Program | **$99 / year** | Before the first App Store upload |
+| Google Play developer account | **$25 once** | Before the first Play Store upload |
+| Expo EAS builds | Free tier has monthly build limits; paid if we need more | During building |
+| Supabase | Free tier to start | From day 1 |
+| RevenueCat | Free until the app earns a set amount per month (check their current terms) | When we add subscriptions |
+| Apple/Google cut on subscriptions | About 15–30% of each payment | After launch |
+(Verify the prices on each site before paying; they can change.)
+
+## 4. The roadmap (steps, in order)
+1. **Pick the idea.** Problem, who it's for, why they'd pay. Optional: run it through Roast Room (`C:\Users\Laptop\roast-room`, `/roast-room ...`).
+2. **Study competitors.** Find 3–5 apps doing something similar: what they charge, their reviews, their weak spots (skills: `aso`, REA once installed).
+3. **Clickable demo first.** A fake but clickable version to test the idea and use in reels (fil.design skill once installed).
+4. **Design.** Screens, colours, fonts (`expo-design-system`, `expo-native-ui`, design sites below).
+5. **Build.** Expo project, screens, navigation (`expo-overview` first, then `expo-project-structure`, `expo-router`, `expo-ui`, `react-native-best-practices`).
+6. **Login + data.** Supabase.
+7. **Subscriptions.** RevenueCat: products, paywall, premium lock, test purchases with no real money.
+8. **Security check.** `security-and-hardening`, `security-review`.
+9. **Store listing.** Name, icon, screenshots, keywords (`aso`, `copywriting`).
+10. **Publish.** EAS build + submit to TestFlight → App Store, and to Google Play (`eas-app-stores`, `eas-workflows`).
+11. **Launch + promote.** Launch plan, TikTok/IG reels, comment-keyword DMs (`launch`, Instagram + TikTok skills, video skills).
+12. **Improve.** First-session experience and pricing (`onboarding`, `pricing`, `marketing-psychology`).
+
+## 5. Skills we have (installed)
+### Building the app (Expo, official)
+- `expo-overview`: load first, it routes to the right Expo skill
+- `expo-project-structure`: folders for a new app
+- `expo-router`: screens, tabs, navigation
+- `expo-native-ui`: looks like a real iPhone app
+- `expo-ui`: native buttons, sliders, sheets, menus
+- `expo-design-system`: one consistent theme
+- `eas-app-stores`: build + submit to App Store / Google Play
+- `eas-workflows`: automate builds and releases
+- `react-native-best-practices` (Vercel): speed and performance
+
+### Payments + subscriptions (RevenueCat, official)
+- `revenuecat`: general help
+- `create-revenuecat-project`: products, plans, entitlements
+- `integrate-revenuecat`: connect it to the app
+- `revenuecat-paywall`: the "go premium" screen
+- `revenuecat-entitlements-gate`: lock premium features
+- `revenuecat-testing-setup`: test purchases without real money
+
+### Login, database, web, payments outside the app (plugins already installed)
+- **Supabase** plugin: login, database, storage
+- **Stripe** plugin: payments on a website (not inside the iPhone app; Apple requires its own billing there)
+- **Vercel** plugin: website / landing page hosting
+- Note: Supabase, Stripe and Vercel each need to be connected once (sign-in) before first use.
+
+### Security
+- `security-and-hardening`, `security-review`
+
+### Design
+- `frontend-design`, `website-builder-setup`, `design-and-templates`
+- Saved design websites (use only when you say so): 21st.dev, reactbits.dev, magicui.design, uiverse.io, mobbin.com (inspiration), styles.refero.design (ready style guides for AI). Not checked yet: designeer.xyz, inspora.design.
+
+### Marketing (installed 2026-11-15)
+- `aso`: App Store search ranking
+- `launch`: launch plan
+- `pricing`: what to charge
+- `onboarding`: first screens that keep users
+- `copywriting`: headlines and text that sell
+- `marketing-psychology`: why people buy
+
+### Promotion on TikTok + Instagram (already had)
+- Instagram skills: `ig-reel`, `ig-caption`, `ig-viral`, `ig-audit`, `ig-plan`, `ig-story`, `ig-profile`, `ig-dm`...
+- Social-media skills (70+): `tiktok-script`, `tiktok-growth`, `tiktok-video-publishing`, `instagram-growth`, `short-form-video-script`, `hook-writer`, `lead-magnets-and-funnels`...
+- Reading reels and accounts: Agent Reach, yt-dlp, vidIQ connector
+- Comment-to-DM: ManyChat (same setup as `../emilia-series/freebie/MANYCHAT_SETUP.md`)
+
+### Making promo videos (already had)
+- **Hypit**: copy a viral reel's structure, free code-only mode (test: `../ai-account/tests/hypit-clone/`)
+- **cinematic-film**: documentary "evidence wall" style (test: `../ai-account/tests/medusa/`)
+- **HyperFrames**, Remotion, Lemo Opuscar, `saas-master` (product promo videos), plus stick-figure, anime, paper-cutout, pixel-art and others
+
+### Deciding
+- **Roast Room**: council of business advisors for big decisions (`C:\Users\Laptop\roast-room`)
+
+## 6. Skills to install LATER (when we start the app)
+From @mengto's Threads post (2026-11-15):
+- ✅ **Emil Kowalski's skills** (emilkowal.ski/skill): premium animations and interactions
+- ✅ **REA, Reverse Engineer Anything**: how any app or site works (competitor study)
+- ✅ **fil.design skill**: clickable live demo of the app in HTML
+- 🟡 **hairline** (hairline.lucasmarkes.com): line drawings for the website
+- 🟡 **Meng To's skills** (github.com/mengt…): need the full link
+- ❌ github.com/achim… (Blender + AI images): skip, already covered
+
+## 7. Skipped on purpose
+- Instagram/TikTok **scraper** skills: need paid scraping accounts and break Instagram's rules. We already read reels with yt-dlp + Agent Reach.
+- The many **"app-store-screenshots"** copies under random publisher names: duplicates of unknown quality.
+- **reddit-automation**: auto-posting gets accounts banned.
+
+## 8. Open questions (for the user)
+1. What's the app idea? (Problem + who pays.)
+2. iPhone only first, or iPhone + Android together?
+3. Price idea: monthly subscription, yearly, or one-time unlock?
+4. Will the app be promoted from @eightysix.makes, or a new account just for the app?
+
+## Session history
+- **2026-11-15:** user decided to build an app someday. Researched skills.sh; installed 21 skills (Expo ×9, RevenueCat ×6, marketing ×6); saved design sites; reviewed @mengto's skill list (install 3, 5, 6 later). This file created.
