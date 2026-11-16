@@ -147,6 +147,18 @@ His 4 steps (read from the on-screen text; the audio wasn't transcribed):
   - Promotion: show the user's pain with a character, put our app on the screen inside the joke, and add "useful news" posts.
   - App idea pattern: **"we track X for a niche, daily, and remind you"**. That's a simple app people pay for to avoid missing something.
 
+## 6e. Example account: @hakeem_dimoz (from screenshots, 2026-11-16)
+- Melbourne, 23. Bio: "building apps until $30k/mo, currently: $30k!!" 12.6K followers, 320 posts.
+- **Method: a daily "DAY N" reel** (Day 1 → Day 320), filmed raw on his phone, talking to the camera. He shares wins and failures honestly ("but it went horribly", "or suspended", "REALISTIC day in my life as a 22y/o $30k/mo app founder").
+- His **pinned emotional Day 1** reel has 44.1K views. Normal days get 3–9K views, so the series builds trust over time, not through one viral video.
+- **Proof:** a public page on verified.revenuecat.com showing MRR $13,978, $31,523 revenue in the last 28 days, and 2,833 active subscriptions. Revenue is about 2× MRR, which suggests many users pay **yearly** upfront.
+- **For us:** the "Day N" format costs nothing and fits building the app from zero. RevenueCat can show our revenue publicly later as proof.
+
+## Decision: promote before launch (2026-11-16)
+- Start a **"Day 1" build-in-public series** before the app exists.
+- Collect a **waitlist** (Vercel page + ManyChat keyword). If people don't join, the idea is weak, so change it before building.
+- Keep the build short (an MVP in weeks, not months). Waitlists go cold if launch is far away.
+
 ## 7. Skipped on purpose
 - Instagram/TikTok **scraper** skills: need paid scraping accounts and break Instagram's rules. We already read reels with yt-dlp + Agent Reach.
 - The many **"app-store-screenshots"** copies under random publisher names: duplicates of unknown quality.
