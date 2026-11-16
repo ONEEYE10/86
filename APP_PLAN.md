@@ -154,7 +154,7 @@ His 4 steps (read from the on-screen text; the audio wasn't transcribed):
 - **Proof:** a public page on verified.revenuecat.com showing MRR $13,978, $31,523 revenue in the last 28 days, and 2,833 active subscriptions. Revenue is about 2× MRR, which suggests many users pay **yearly** upfront.
 - **For us:** the "Day N" format costs nothing and fits building the app from zero. RevenueCat can show our revenue publicly later as proof.
 
-## Decision: promote before launch (2026-11-16)
+## Recommendation: promote before launch (2026-11-16, waiting for your OK)
 - Start a **"Day 1" build-in-public series** before the app exists.
 - Collect a **waitlist** (Vercel page + ManyChat keyword). If people don't join, the idea is weak, so change it before building.
 - Keep the build short (an MVP in weeks, not months). Waitlists go cold if launch is far away.
